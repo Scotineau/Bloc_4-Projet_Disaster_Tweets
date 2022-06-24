@@ -1,5 +1,9 @@
 # Bloc_4-Projet_Disaster_Tweets
 
+## Project's presentation 🎥
+https://share.vidyard.com/watch/5aG2KAPV9fyD3wXdYfuq4E?
+
+
 ## Goals 🎯
 Competition - https://www.kaggle.com/c/nlp-getting-started
 * EDA of the dataset
