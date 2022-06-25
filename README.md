@@ -1,7 +1,7 @@
 # Bloc_4-Projet_Disaster_Tweets
 
 ## Project's presentation 🎥
-https://share.vidyard.com/watch/5aG2KAPV9fyD3wXdYfuq4E?
+https://share.vidyard.com/watch/5aG2KAPV9fyD3wXdYfuq4E?![image](https://user-images.githubusercontent.com/94960539/175761022-43290e64-747f-4484-9737-a77907f5c0b5.png)
 
 
 ## Goals 🎯
